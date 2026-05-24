@@ -19,3 +19,4 @@ env/
 # Data and large binaries (tracked by DVC instead)
 data/*
 !data/.gitkeep
+!data/*.dvc
